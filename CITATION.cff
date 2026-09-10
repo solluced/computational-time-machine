@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use or discuss this research concept, please cite it using the metadata below."
+title: "Computational Time Machine: Accelerated AI Civilizations for Compressing Technological R&D Time"
+type: article
+version: "1.0"
+date-released: 2026-09-10
+doi: "10.5281/zenodo.22687555"
+url: "https://doi.org/10.5281/zenodo.22687555"
+authors:
+  - given-names: "Nickolay"
+    family-names: "Gorlanov"
+abstract: >-
+  A research concept proposing a persistent generational AI R&D ecosystem,
+  Civilization-in-the-Loop (CitL), designed to test whether independently
+  validated discoveries can compound across AI research generations and
+  compress technological R&D time. The proposal introduces the Technological
+  Time Compression Ratio (TTCR), branching technological futures, and
+  real-world validation through robotic experimentation.
+keywords:
+  - artificial intelligence
+  - automated AI researcher
+  - recursive self-improvement
+  - agentic research
+  - AI civilization
+  - technological time compression
+  - Civilization-in-the-Loop
+  - TTCR
