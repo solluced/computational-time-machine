@@ -17,16 +17,18 @@ The proposal introduces the **Technological Time Compression Ratio (TTCR)** as a
 
 ## Release v1.0
 
+The authoritative DOI-bearing v1.0 PDFs are published on Zenodo and should be mirrored here byte-for-byte:
+
 - `CTM_OpenAI_One_Page_Pitch_v1.0_DOI.pdf` — one-page research pitch.
 - `Computational_Time_Machine_Concept_Paper_v1.0_DOI.pdf` — full four-page concept paper.
-- `SHA256SUMS.txt` — SHA-256 fingerprints for the exact DOI-bearing v1.0 PDFs.
+- `SHA256SUMS.txt` — SHA-256 fingerprints for those exact DOI-bearing PDFs.
 - `CITATION.cff` — citation metadata.
 - `LICENSE.md` — licensing notice for the published materials.
 - `RELEASE_NOTES_v1.0.md` — release notes.
 
 ## Version integrity
 
-The two PDF files in this repository are the same DOI-bearing v1.0 artifacts published on Zenodo. Their hashes are recorded in `SHA256SUMS.txt`. Future substantive changes should be released as a new version rather than replacing these v1.0 artifacts.
+The Zenodo record is the authoritative public v1.0 deposit. When the two PDFs are mirrored in this repository, their SHA-256 hashes must match `SHA256SUMS.txt`. Future substantive changes should be released as a new version rather than replacing the v1.0 artifacts.
 
 ## Core thesis
 
