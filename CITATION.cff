@@ -1,27 +1,32 @@
 cff-version: 1.2.0
-message: "If you use or discuss this research concept, please cite it using the metadata below."
-title: "Computational Time Machine: Accelerated AI Civilizations for Compressing Technological R&D Time"
+message: "If you use or discuss this work, please cite the current technical preprint using the metadata below."
+title: "Computational Time Machine (CTM): A Measurement and Experimental Framework for Generational AI R&D Systems"
 type: article
-version: "1.0"
+version: "2.0"
 date-released: 2026-09-10
-doi: "10.5281/zenodo.22687555"
-url: "https://doi.org/10.5281/zenodo.22687555"
+doi: "10.5281/zenodo.22689836"
+url: "https://doi.org/10.5281/zenodo.22689836"
 authors:
   - given-names: "Nickolay"
     family-names: "Gorlanov"
 abstract: >-
-  A research concept proposing a persistent generational AI R&D ecosystem,
-  Civilization-in-the-Loop (CitL), designed to test whether independently
-  validated discoveries can compound across AI research generations and
-  compress technological R&D time. The proposal introduces the Technological
-  Time Compression Ratio (TTCR), branching technological futures, and
-  real-world validation through robotic experimentation.
+  A measurement and experimental framework for testing whether persistent,
+  generational AI research systems can accelerate validated technological R&D
+  progress beyond conventional parallel-agent baselines. The framework centers
+  on Civilization-in-the-Loop (CitL), formalizes the Technological Time
+  Compression Ratio (TTCR), introduces Causal Inheritance Depth (CID), and
+  specifies controlled baselines, ablations, provenance, physical validation,
+  compute and energy accounting, safety gates, and falsification criteria.
 keywords:
   - artificial intelligence
   - automated AI researcher
+  - generational AI R&D
   - recursive self-improvement
   - agentic research
-  - AI civilization
-  - technological time compression
   - Civilization-in-the-Loop
+  - technological time compression
   - TTCR
+  - Causal Inheritance Depth
+  - CID
+  - scientific discovery
+  - research automation
